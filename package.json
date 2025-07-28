@@ -1,20 +1,20 @@
 {
-  "name": "chaibackend",
+  "name": "chai-aur-backend",
   "version": "1.0.0",
-  "description": "a basic app to deploy",
-  "keywords": [
-    "node",
-    "chai"
-  ],
+  "description": "chai aur code channel",
+  "homepage": "https://github.com/rishisharmaiitmadras/chaibackend#readme",
+  "bugs": {
+    "url": "https://github.com/rishisharmaiitmadras/chaibackend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishisharmaiitmadras/chaibackend.git"
+  },
   "license": "ISC",
-  "author": "rishisharma",
+  "author": "RishiSharma",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "dotenv": "^17.2.1",
-    "express": "^5.1.0"
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
